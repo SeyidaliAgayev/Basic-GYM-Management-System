@@ -1,0 +1,9 @@
+package enums;
+
+public enum StatusEnums {
+    MEMBER_ADDED_SUCCESSFULLY,
+    REJECTED,
+    DEPARTURE_UPDATED_SUCCESSFULLY,
+    LOG_IN_SUCCESSFULLY,
+
+}
